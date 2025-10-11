@@ -20,6 +20,11 @@ A second-year Master's student in Data Science, highly proficient in **Python**,
 
 ## 💡 Key Projects
 
+### Using LLMs and ProVe to Correct the whole Wikidata
+* Will develop and apply advanced data processing techniques (distributed/batch-processing, caching, approximate retrieval, knowledge distillation) on large-scale Wikidata dumps.
+* This includes fine-tuning Large Language Models (LLMs) for specialized tasks like triple verbalization and claim verification, demonstrating proficiency in Knowledge Graph (KG) technologies and AI concepts.
+* *Tools:* RDF, Knowledge Graphs, Distributed/Batch Processing.
+
 ### AI-Assisted Message Routing in Pub/Sub Systems
 * Designed and implemented a lightweight pub/sub system utilizing **LLMs** for message classification and priority-based routing.
 * Achieved an improvement in message delivery efficiency by measuring latency, throughput, and routing accuracy against traditional methods.
