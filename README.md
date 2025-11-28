@@ -1,55 +1,64 @@
 # Karthik Raja KANDAVEL
-**Data Scientist | Data Analyst**
 
-**MSc Data Science, EURECOM (France)**
+**Data Science Master's candidate (EURECOM) with 2 years of professional experience in data analytics and software engineering.**
 
-A second-year Master's student in Data Science, highly proficient in **Python**, **SQL**, **Machine Learning**, **Deep Learning**, and **LLMs**. I am seeking a **6-months end of studies internship** starting **March 2026** to leverage my academic and professional skills in a challenging, practical environment.
+## 🎯 Profile Summary
 
----
+A highly proficient Data Science Master's candidate seeking a **6-month End-of-Study Internship starting March 2026**.
+
+My expertise includes fine-tuning **Large Language Models (LLMs)** (BERT/T5), optimizing **Knowledge Graphs**, and deploying predictive models in production environments. I have a proven track record of automating complex workflows, such as reducing manual reporting efforts by automating **SQL** workflows.
 
 ## 🛠️ Technical Skills
 
 | Category | Skills |
 | :--- | :--- |
-| **Machine Learning & AI** | LLM & Transformer Architecture, Fine-tuning, NLP, Sequential Models |
-| **Languages & Frameworks** | Python (Scikit-learn, Pytorch, Pandas, NumPy, Matplotlib), SQL, Bash |
-| **Tools & Project Management** | Azure Services, GitHub, Docker, Tableau, Excel, Jira, Agile Methodologies |
-| **Cloud & Certifications** | Microsoft Certified: Power BI Data Analyst Associate, Microsoft Azure Fundamentals (AZ-900), Google Cloud Engineering Certificate (In-Progress) |
+| **Programming & Core** | Python, SQL, C++, Bash, HTML |
+| **ML/DL Frameworks** | PyTorch, NumPy, Pandas, Scikit-learn, Hugging Face Transformers |
+| **AI/NLP Expertise** | Large Language Models (LLMs), Fine-tuning, Natural Language Processing (NLP), Knowledge Graphs, Deep Learning (CNN, RNN, LSTM) |
+| **Data Engineering & DB** | ETL Pipelines, Distributed Processing, PostgreSQL, Data Integrity |
+| **BI & Cloud Platforms** | Power BI, Tableau, Azure (AZ-900), Google Cloud Platform (GCP) |
+
+## 💡 AI & Data Science Projects (Academic)
 
 ---
 
-## 💡 Key Projects
+### 1. Using LLMs and ProVe to Correct Wikidata (Oct 2025 - Feb 2026)
 
-### Using LLMs and ProVe to Correct the whole Wikidata
-* Will develop and apply advanced data processing techniques (distributed/batch-processing, caching, approximate retrieval, knowledge distillation) on large-scale Wikidata dumps.
-* This includes fine-tuning Large Language Models (LLMs) for specialized tasks like triple verbalization and claim verification, demonstrating proficiency in Knowledge Graph (KG) technologies and AI concepts.
-* *Tools:* RDF, Knowledge Graphs, Distributed/Batch Processing.
+* **Focus:** Automating Knowledge Graph quality assurance using Generative AI.
+* **Key Achievement:** Fine-tuning **T5** and **BERT** architectures using **PyTorch** to achieve high-precision claim verification via **Natural Language Inference (NLI)**.
+* **Engineering:** Engineered a scalable distributed processing pipeline for RDF datasets, implementing caching strategies that reduced data retrieval latency for large-scale triple stores.
+* **Tools:** PyTorch, Transformers, SPARQL, Distributed Processing, Knowledge Graphs.
 
-### AI-Assisted Message Routing in Pub/Sub Systems
-* Designed and implemented a lightweight pub/sub system utilizing **LLMs** for message classification and priority-based routing.
-* Achieved an improvement in message delivery efficiency by measuring latency, throughput, and routing accuracy against traditional methods.
-* *Tools:* Python, MQTT, LLM Integration.
+### 2. AI-Assisted Message Routing in Pub/Sub Systems (Mar 2025 - Jun 2025)
 
-### Data Pipeline for Research Publications
-* Successfully designed and implemented a relational database schema in **PostgreSQL** for research publications.
-* Conducted comprehensive data analysis to identify trends and patterns in publication data.
-* *Tools:* PostgreSQL, Python, Data Visualization.
+* **Focus:** Optimizing system architecture with real-time AI classification.
+* **Key Achievement:** Built a real-time **NLP** classification engine integrating **Groq LLM APIs** into **MQTT** protocols, achieving a **25% accuracy improvement** over legacy rule-based routing.
+* **Tools:** Python, MQTT, LLM Integration, Real-time Classification.
+
+### 3. Data Pipeline for Research Publications (Oct 2024 - Nov 2024)
+
+* **Focus:** Robust ETL and data analysis.
+* **Key Achievement:** Engineered a robust **ETL pipeline** parsing raw XML into a normalized **PostgreSQL** schema, implementing bulk loading strategies that optimized performance for large-scale datasets.
+* **Analysis:** Conducted comprehensive data analysis using complex **SQL** queries to identify publication patterns.
+* **Tools:** PostgreSQL, Python, SQL, ETL Pipelines.
 
 ---
 
 ## 💼 Professional Experience
 
-### Associate Business Analyst (SQL Data Analyst) | Infosys LTD
-* Developed and executed data cleaning procedures, improving the precision and usability of data.
-* Created reports and visualizations to communicate findings to stakeholders.
-* Performed requirement analysis and documented detailed specifications.
-* *(Dec 2023 - Aug 2024)*
+### Associate Business Analyst (Data Focus) | Infosys LTD (Aug 2022 - Aug 2024)
+* Engineered automated data workflows using complex **SQL** queries and Spotfire, effectively eliminating manual reporting overhead and accelerating data-driven decision-making.
+* Resolved critical **data integrity** failures by diagnosing sensor-level faults and implementing a root-cause fix, restoring accuracy to month-long historical datasets.
+* Led technical code reviews and mentored 3 junior developers on PEGA best practices.
 
-### Associate Business Analyst (Developer) | Infosys LTD
-* Designed and coded new technical features in products.
-* Conducted code reviews and ensured adherence to coding standards and practices.
-* Mentored junior team members on development tasks.
-* *(Aug 2022 - Nov 2023)*
+## 🎓 Education & Certifications
 
----
+### Education
+* **Master of Science in Computer Science (Specialisation in Data Science)**, EURECOM, France (Sept 2024 - Present)
+* **B.E in Computer Science and Engineering**, Sri Sairam Institute of Technology, India (Jun 2018 - Jun 2022)
 
+### Certifications
+* Microsoft Certified: Power BI Data Analyst Associate (Mar 2024)
+* Microsoft Azure Fundamentals (AZ-900) (Feb 2021)
+* Large Language Models (NPTEL) (**In-Progress**)
+* Natural Language Processing (NPTEL) (**In-Progress**)
